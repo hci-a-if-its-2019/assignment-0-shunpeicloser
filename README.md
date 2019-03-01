@@ -18,18 +18,25 @@ Human Computer Interaction - A
 - Not using excessive word colouring
 - Make numbered page for page that has many items. It will reduce the data loaded per page
 
-## Penny Juice (https://www.pennyjuice.com)
-![pennyjuice_1](/images/pennyjuice_1.PNG)
+## Indosiar (www.indosiar.com)
+![indosiar_index](/images/indosiar_index.png)
 ### Things that make it bad:
-- The sticky header doesn’t hide a little part of the page.
-![pennyjuice_2](/images/pennyjuice_2.PNG)
-- Unnecessary use of “Facebook Feed” part while it has Facebook icon above it 
-- Inconsistent use of icon and "News Feed" part
-![pennyjuice_3](/images/pennyjuice_3.PNG)
+- Redundant action needed to open the highlighted shows. (Click the show image below and click the upper image)
+- Bad size of highlighted show's frame.
+![indosiar_index](/images/indosiar_index.png)
+- Bad font coloring in some page.
+![indosiar_index](/images/indosiar_aboutus.png)
+- Loading more content done without erasing / hiding previous content. It makes the browser sometimes get error.
+![indosiar_index](/images/indosiar_error.png)
+- The language change is placed at the bottom of the page. It's bad because the not all user could notice this feature.
+![indosiar_index](/images/indosiar_bottom.png)
 
 ### Things needed to make it better:
-- Move the sticky header into topmost of the page
-- Consistent use of icon or the news feed (only using icon / only using the news feed part) 
+- Makes the bottom image a direct link.
+- Resize the highlighted show's frame.
+- Make the font color contrast with its background color.
+- Modularize the content shown so all of them isn't in the same page.
+- Move the language change feature to the top of the page.
 
 ## Theloniousmonk Store (https://theloniousmonk.store)
 ![monk_1](/images/monk_1.PNG)
